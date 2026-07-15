@@ -14,7 +14,7 @@
     {
       "key": "月佬瓜子影视",
       "name": "月佬瓜子影视",
-      "type": 4,
+      "type": 3,
       "api": "https://vod.catvod.ggff.net/guazi",
       "searchable": 1,
       "quickSearch": 1,
@@ -24,7 +24,7 @@
     {
       "key": "Qile优视频",
       "name": "Qile优视频",
-      "type": 4,
+      "type": 3,
       "api": "https://vod.catvod.ggff.net/uvod",
       "searchable": 1,
       "quickSearch": 1,
@@ -34,7 +34,7 @@
     {
       "key": "嗷呜爱瓜TV",
       "name": "嗷呜爱瓜TV",
-      "type": 4,
+      "type": 3,
       "api": "https://vod.catvod.ggff.net/aigua",
       "searchable": 1,
       "quickSearch": 1,
@@ -44,7 +44,7 @@
     {
       "key": "独播库",
       "name": "独播库",
-      "type": 4,
+      "type": 3,
       "api": "https://vod.catvod.ggff.net/duboku",
       "searchable": 1,
       "quickSearch": 1,
@@ -54,7 +54,7 @@
     {
       "key": "荐片",
       "name": "荐片",
-      "type": 4,
+      "type": 3,
       "api": "https://vod.catvod.ggff.net/jianpian",
       "searchable": 1,
       "quickSearch": 1,
@@ -64,7 +64,7 @@
     {
       "key": "4K追剧",
       "name": "4K追剧",
-      "type": 4,
+      "type": 3,
       "api": "https://vod.catvod.ggff.net/tg",
       "searchable": 1,
       "quickSearch": 1,
