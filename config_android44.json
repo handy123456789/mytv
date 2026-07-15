@@ -1,0 +1,147 @@
+{
+  "notice": "Android 4.4 compatibility build: conservative VOD search configuration.",
+  "sites": [
+    {
+      "key": "欧乐影院",
+      "name": "欧乐影院",
+      "type": 4,
+      "api": "https://vod.catvod.ggff.net/oule",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "timeout": 10
+    },
+    {
+      "key": "月佬瓜子影视",
+      "name": "月佬瓜子影视",
+      "type": 4,
+      "api": "https://vod.catvod.ggff.net/guazi",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "timeout": 10
+    },
+    {
+      "key": "Qile优视频",
+      "name": "Qile优视频",
+      "type": 4,
+      "api": "https://vod.catvod.ggff.net/uvod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "timeout": 10
+    },
+    {
+      "key": "嗷呜爱瓜TV",
+      "name": "嗷呜爱瓜TV",
+      "type": 4,
+      "api": "https://vod.catvod.ggff.net/aigua",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "timeout": 10
+    },
+    {
+      "key": "独播库",
+      "name": "独播库",
+      "type": 4,
+      "api": "https://vod.catvod.ggff.net/duboku",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "timeout": 10
+    },
+    {
+      "key": "荐片",
+      "name": "荐片",
+      "type": 4,
+      "api": "https://vod.catvod.ggff.net/jianpian",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "timeout": 10
+    },
+    {
+      "key": "4K追剧",
+      "name": "4K追剧",
+      "type": 4,
+      "api": "https://vod.catvod.ggff.net/tg",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "timeout": 10
+    },
+    {
+      "key": "豆瓣首页",
+      "name": "豆瓣首页",
+      "type": 4,
+      "api": "https://vod.catvod.ggff.net/douban",
+      "indexs": 1,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "timeout": 8
+    },
+    {
+      "key": "泥潭看球①",
+      "name": "泥潭看球①",
+      "type": 4,
+      "api": "https://vod.catvod.ggff.net/sport",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "timeout": 8,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "泥潭看球②",
+      "name": "泥潭看球②",
+      "type": 4,
+      "api": "https://vod.catvod.ggff.net/kq",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "timeout": 8,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "Qile看球",
+      "name": "Qile看球",
+      "type": 4,
+      "api": "https://vod.catvod.ggff.net/kanqiu",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "timeout": 8,
+      "style": {
+        "type": "list"
+      }
+    }
+  ],
+  "lives": [
+    {
+      "name": "世界杯",
+      "url": "http://82.156.243.185:33389/fwc.m3u"
+    },
+    {
+      "name": "Kimentanm电视直播",
+      "url": "https://raw.githubusercontent.com/Kimentanm/aptv/refs/heads/master/m3u/iptv.m3u"
+    },
+    {
+      "name": "咪咕电视直播",
+      "url": "https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt"
+    },
+    {
+      "name": "YanG电视直播",
+      "url": "https://iptv.yang-1989.eu.org/m3u/Gather.m3u"
+    },
+    {
+      "name": "YanG体育直播",
+      "url": "https://iptv.yang-1989.eu.org/m3u/Sport.m3u"
+    }
+  ]
+}
